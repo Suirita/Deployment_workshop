@@ -1,4 +1,4 @@
-## **Development in Linux**
+## **Development in Linux** 
 
 ### _A Practical Workshop for First-Year Students_
 
