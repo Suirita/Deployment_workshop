@@ -13,10 +13,10 @@
 
 ### **Workshop Agenda**
 
-1. Linux Basics (45 min)
-2. Nginx Installation (45 min)
-3. Virtual Machine Installation (45 min)
-4. Q&A Session (15 min)
+1. Linux Basics
+2. Virtual Machine Installation
+3. Nginx Installation
+4. Q&A Session
 
 ---
 
@@ -79,6 +79,44 @@
 
 ---
 
+## Virtual Machine Installation
+
+### **1. What is a Virtual Machine?**
+
+- Definition & Benefits
+- Popular VM tools: VirtualBox, VMware, KVM
+
+---
+
+## Virtual Machine Installation
+
+### **2. Installing VirtualBox:**
+
+- Download & Install from virtualbox.org
+- Install necessary extensions
+
+---
+
+## Virtual Machine Installation
+
+### **3. Creating a Virtual Machine:**
+
+- Choosing OS (Ubuntu, Debian, etc.)
+- Allocating resources (RAM, CPU, Storage)
+- Setting up networking
+
+---
+
+## Virtual Machine Installation
+
+### **4. Installing Linux on VM:**
+
+- Mounting ISO file
+- Running installation wizard
+- First boot and configuration
+
+---
+
 ## Nginx Installation
 
 ### **1. What is Nginx?**
@@ -123,44 +161,6 @@
 
 - Check service status: systemctl status nginx
 - View logs: tail -f /var/log/nginx/error.log
-
----
-
-## Virtual Machine Installation
-
-### **1. What is a Virtual Machine?**
-
-- Definition & Benefits
-- Popular VM tools: VirtualBox, VMware, KVM
-
----
-
-## Virtual Machine Installation
-
-### **2. Installing VirtualBox:**
-
-- Download & Install from virtualbox.org
-- Install necessary extensions
-
----
-
-## Virtual Machine Installation
-
-### **3. Creating a Virtual Machine:**
-
-- Choosing OS (Ubuntu, Debian, etc.)
-- Allocating resources (RAM, CPU, Storage)
-- Setting up networking
-
----
-
-## Virtual Machine Installation
-
-### **4. Installing Linux on VM:**
-
-- Mounting ISO file
-- Running installation wizard
-- First boot and configuration
 
 ---
 
