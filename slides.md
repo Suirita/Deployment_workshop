@@ -1,7 +1,5 @@
 ## **Development in Linux**
 
-#### _A Practical Workshop for First-Year Students_
-
 - Presented by:
   - SUIRITA Fahd
   - CHABBEH Aymen
@@ -13,25 +11,40 @@
 
 ### **1. Introduction to Linux:**
 
+![Introduction](assets/Introduction.png)
+
 ---
 
 ### **2. Why Use Linux for Development?**
+
+- _Open-source_
+- _Stability and security_
+- _Powerful command-line tools_
+- _Community support_
 
 ---
 
 ### **3. Linux Distributions (Distros):**
 
+![Linux Distributions](assets/Linux_distro.png)
+
 ---
 
 ### **4. What is a Virtual Machine?**
+
+![Virtual Machine](assets/Virtual_machine.webp)
 
 ---
 
 ### **5. Installing VirtualBox:**
 
+![VirtualBox](assets/VirtualBox.png)
+
 ---
 
 ### **6. Creating a Virtual Machine:**
+
+![Creating Virtual Machine](assets/Creating_virtual_machine.png)
 
 ---
 
